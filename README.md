@@ -58,6 +58,12 @@ df1 = sc.fit_transform(df)
 print(df1)
 
 ##OUTPUT:
+![image](https://user-images.githubusercontent.com/108709865/191953548-5db44ae5-a32f-4163-8200-c6c1d0c4cf05.png)
+![image](https://user-images.githubusercontent.com/108709865/191953651-a18d05f1-bf4a-4ea4-8416-32d53df48d19.png)
+![image](https://user-images.githubusercontent.com/108709865/191953708-4eec3c2b-e247-4779-ad02-5ffefc2cd281.png)
+![image](https://user-images.githubusercontent.com/108709865/191953736-53746665-449e-4d44-9933-80505c686e0b.png)
+![image](https://user-images.githubusercontent.com/108709865/191953793-404576c6-706f-4dc1-bf47-b03af6bd1ce8.png)
+![image](https://user-images.githubusercontent.com/108709865/191953852-0f8132ec-122f-4704-b41b-b1762959463c.png)
 
 
 ##RESULT
