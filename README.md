@@ -24,7 +24,7 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 
 ##ALGORITHM:
-```Importing the libraries
+Importing the libraries
 Importing the dataset
 Taking care of missing data
 Encoding categorical data
@@ -32,6 +32,7 @@ Normalizing the data
 Splitting the data into test and train
 
 ##PROGRAM:
+```
 import pandas as pd
 df=pd.read_csv("/content/Churn_Modelling.csv")
 df.head()
@@ -55,7 +56,8 @@ print(len(xtest))
 from sklearn.preprocessing import StandardScaler
 sc = StandardScaler()
 df1 = sc.fit_transform(df)
-print(df1)```
+print(df1)
+```
 
 ##OUTPUT:
 ![image](https://github.com/prathima2002/Ex.No.1.---Data-Preprocessing/blob/830ab3184ca34060f97eaf9e688eebf96f8095ca/WhatsApp%20Image%202022-09-23%20at%2017.05.48.jpeg)
