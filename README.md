@@ -59,10 +59,10 @@ print(df1)```
 
 ##OUTPUT:
 ![image](https://github.com/prathima2002/Ex.No.1.---Data-Preprocessing/blob/830ab3184ca34060f97eaf9e688eebf96f8095ca/WhatsApp%20Image%202022-09-23%20at%2017.05.48.jpeg)
-![image](https://user-images.githubusercontent.com/108709865/191955031-62ec6b3d-6d52-4b8f-9277-208f60656974.png)
-![image](https://user-images.githubusercontent.com/108709865/191955172-7ed8b4a4-de18-49fc-b9db-cc1eb34e24d1.png)
-![image](https://user-images.githubusercontent.com/108709865/191955136-e613d0c4-59f9-48f0-9d14-636037476619.png)
-![image](https://user-images.githubusercontent.com/108709865/191955095-982eb73e-6695-46f1-b33a-5d5d22b3f11b.png)
+![image](https://github.com/prathima2002/Ex.No.1.---Data-Preprocessing/blob/7878d4a3cbb9602015919508003ff2d4c4f2e58a/WhatsApp%20Image%202022-09-23%20at%2017.07.13.jpeg)
+![image](https://github.com/prathima2002/Ex.No.1.---Data-Preprocessing/blob/7878d4a3cbb9602015919508003ff2d4c4f2e58a/WhatsApp%20Image%202022-09-23%20at%2017.07.49.jpeg)
+![image](https://github.com/prathima2002/Ex.No.1.---Data-Preprocessing/blob/7878d4a3cbb9602015919508003ff2d4c4f2e58a/WhatsApp%20Image%202022-09-23%20at%2017.09.10.jpeg)
+![image](https://github.com/prathima2002/Ex.No.1.---Data-Preprocessing/blob/7878d4a3cbb9602015919508003ff2d4c4f2e58a/WhatsApp%20Image%202022-09-23%20at%2017.09.31.jpeg)
 
 ##RESULT
 Thus the above program for standardizing the given data was implemented successfully.
