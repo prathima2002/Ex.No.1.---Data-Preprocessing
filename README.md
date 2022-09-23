@@ -24,7 +24,7 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 
 ##ALGORITHM:
-Importing the libraries
+```Importing the libraries
 Importing the dataset
 Taking care of missing data
 Encoding categorical data
@@ -55,7 +55,7 @@ print(len(xtest))
 from sklearn.preprocessing import StandardScaler
 sc = StandardScaler()
 df1 = sc.fit_transform(df)
-print(df1)
+print(df1)```
 
 ##OUTPUT:
 ![image](https://user-images.githubusercontent.com/108709865/191953548-5db44ae5-a32f-4163-8200-c6c1d0c4cf05.png)
