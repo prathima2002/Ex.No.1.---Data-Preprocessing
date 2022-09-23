@@ -58,13 +58,11 @@ df1 = sc.fit_transform(df)
 print(df1)```
 
 ##OUTPUT:
-![image](https://user-images.githubusercontent.com/108709865/191953548-5db44ae5-a32f-4163-8200-c6c1d0c4cf05.png)
-![image](https://user-images.githubusercontent.com/108709865/191953651-a18d05f1-bf4a-4ea4-8416-32d53df48d19.png)
-![image](https://user-images.githubusercontent.com/108709865/191953708-4eec3c2b-e247-4779-ad02-5ffefc2cd281.png)
-![image](https://user-images.githubusercontent.com/108709865/191953736-53746665-449e-4d44-9933-80505c686e0b.png)
-![image](https://user-images.githubusercontent.com/108709865/191953793-404576c6-706f-4dc1-bf47-b03af6bd1ce8.png)
-![image](https://user-images.githubusercontent.com/108709865/191953852-0f8132ec-122f-4704-b41b-b1762959463c.png)
-
+![image](https://user-images.githubusercontent.com/108709865/191954974-72f6c9ed-4b9e-4c91-9e09-fba05f58ac01.png)
+![image](https://user-images.githubusercontent.com/108709865/191955031-62ec6b3d-6d52-4b8f-9277-208f60656974.png)
+![image](https://user-images.githubusercontent.com/108709865/191955172-7ed8b4a4-de18-49fc-b9db-cc1eb34e24d1.png)
+![image](https://user-images.githubusercontent.com/108709865/191955136-e613d0c4-59f9-48f0-9d14-636037476619.png)
+![image](https://user-images.githubusercontent.com/108709865/191955095-982eb73e-6695-46f1-b33a-5d5d22b3f11b.png)
 
 ##RESULT
 Thus the above program for standardizing the given data was implemented successfully.
