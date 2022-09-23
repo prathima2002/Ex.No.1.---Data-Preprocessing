@@ -58,7 +58,7 @@ df1 = sc.fit_transform(df)
 print(df1)```
 
 ##OUTPUT:
-![image](https://user-images.githubusercontent.com/108709865/191954974-72f6c9ed-4b9e-4c91-9e09-fba05f58ac01.png)
+![image](https://github.com/prathima2002/Ex.No.1.---Data-Preprocessing/blob/830ab3184ca34060f97eaf9e688eebf96f8095ca/WhatsApp%20Image%202022-09-23%20at%2017.05.48.jpeg)
 ![image](https://user-images.githubusercontent.com/108709865/191955031-62ec6b3d-6d52-4b8f-9277-208f60656974.png)
 ![image](https://user-images.githubusercontent.com/108709865/191955172-7ed8b4a4-de18-49fc-b9db-cc1eb34e24d1.png)
 ![image](https://user-images.githubusercontent.com/108709865/191955136-e613d0c4-59f9-48f0-9d14-636037476619.png)
